@@ -60,7 +60,7 @@ Descarga el APK más reciente desde la sección [**Releases**](../../releases) d
 ### 🧑‍💻 Compilar el proyecto
 
 ```bash
-git clone https://github.com/<tu-usuario>/ControlDeGastos.git
+git clone https://github.com/ManuelDxz/ControlDeGastos.git
 cd ControlDeGastos
 ./gradlew assembleDebug
 ```
@@ -114,7 +114,7 @@ Grab the latest APK from this repo's [**Releases**](../../releases) page and ins
 ### 🧑‍💻 Building from source
 
 ```bash
-git clone https://github.com/<your-username>/ControlDeGastos.git
+git clone https://github.com/ManuelDxz/ControlDeGastos.git
 cd ControlDeGastos
 ./gradlew assembleDebug
 ```
@@ -127,7 +127,7 @@ The generated APK will be in `app/build/outputs/apk/debug/`.
 
 ### 👤 Créditos / Credits
 
-**Manuel Morales** (@Disasterxz) — Independent Developer
+**Manuel Morales** ([@Disasterxz](https://github.com/ManuelDxz)) — Independent Developer
 Collaborator at **[Decimal Solution](https://decimalsolution.com/)**
 
 Licensed under the [MIT License](LICENSE).
