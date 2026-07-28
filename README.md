@@ -67,6 +67,8 @@ Toda la lógica, UI y arquitectura de la app está escrita en **Kotlin** (Jetpac
 
 Descarga el APK más reciente desde la sección [**Releases**](../../releases) de este repositorio e instálalo en tu dispositivo Android (mínimo Android 10 / API 29).
 
+> 🔜 **Próximamente disponible en Google Play.**
+
 ### 🧑‍💻 Compilar el proyecto
 
 ```bash
@@ -129,6 +131,8 @@ All app logic, UI, and architecture is written in **Kotlin** (Jetpack Compose in
 ### ⬇️ Installation
 
 Grab the latest APK from this repo's [**Releases**](../../releases) page and install it on an Android device (Android 10 / API 29 or newer).
+
+> 🔜 **Coming soon to Google Play.**
 
 ### 🧑‍💻 Building from source
 
