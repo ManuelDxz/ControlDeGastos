@@ -4,7 +4,8 @@
 
 **A local-first personal finance tracker for Android, built with Jetpack Compose & Material 3.**
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Kotlin](https://img.shields.io/badge/Kotlin-97.3%25-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![XML](https://img.shields.io/badge/XML-2.7%25-0060AC?logo=xml&logoColor=white)](https://developer.android.com/guide/topics/resources/available-resources)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Room](https://img.shields.io/badge/Room-SQLite-3DDC84?logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -52,6 +53,15 @@
 | Arquitectura | MVVM (ViewModel + StateFlow) |
 | Imágenes | Coil |
 | Build | Gradle (Kotlin DSL), AGP |
+
+### 📊 Lenguajes del proyecto
+
+```
+Kotlin  ███████████████████████████████████████░  97.3%
+XML     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+```
+
+Toda la lógica, UI y arquitectura de la app está escrita en **Kotlin** (Jetpack Compose incluido); el XML solo se usa para recursos propios de Android (manifest, temas, colores, ícono adaptativo).
 
 ### ⬇️ Instalación
 
@@ -106,6 +116,15 @@ El APK generado queda en `app/build/outputs/apk/debug/`.
 | Architecture | MVVM (ViewModel + StateFlow) |
 | Image loading | Coil |
 | Build | Gradle (Kotlin DSL), AGP |
+
+### 📊 Project languages
+
+```
+Kotlin  ███████████████████████████████████████░  97.3%
+XML     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+```
+
+All app logic, UI, and architecture is written in **Kotlin** (Jetpack Compose included); XML is only used for Android's own resource files (manifest, themes, colors, adaptive icon).
 
 ### ⬇️ Installation
 
