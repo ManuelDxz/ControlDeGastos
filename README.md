@@ -9,8 +9,11 @@
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Room](https://img.shields.io/badge/Room-SQLite-3DDC84?logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Próximamente%20%2F%20Coming%20soon-414141?logo=googleplay&logoColor=white)](../../releases)
 
 🇪🇸 [Español](#-español) &nbsp;·&nbsp; 🇬🇧 [English](#-english)
+
+### 🔜 ¡Muy pronto en Google Play! &nbsp;/&nbsp; Coming very soon to Google Play!
 
 </div>
 
